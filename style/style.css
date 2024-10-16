@@ -32,11 +32,13 @@ html, body {
 
 h1 {
     text-align: center;
+    padding: 10px;
 }
 
 .grid-input {
     margin: 0 auto;
     text-align: center;
+    padding: 10px;
 }
 
 button {

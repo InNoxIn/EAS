@@ -47,7 +47,6 @@ function createGrid(num) {
             // Set the initial color for each cell
             cell.style.backgroundColor = 'grey';
 
-            // Add hover event listener for darkening effect
             // Add hover event listener for random color effect
             cell.addEventListener('mouseover', function() {
                 // Generate random RGB values
